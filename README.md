@@ -7,7 +7,7 @@ This program takes a Brainfuck program and uses Steganography witchcraft to enco
   
 # Usage 
   encoding a file:  
-  `python3 stegfuck.py -e [input image] [-f] [brainfuck code inline or code file] [output image]
+  `python3 stegfuck.py -e [input image] [-f] [brainfuck code inline or code file] [output image]`
   
   running an image:
   `python3 stegfuck.py [image]`
